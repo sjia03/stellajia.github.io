@@ -7,6 +7,10 @@ body {
   color: #333;
 }
 
+p {
+  line-height: 1.3;
+}
+
 h1 {
   font-size: 2.5rem;
 }
@@ -64,7 +68,7 @@ nav a {
 /* Hyperlinks */
 a {
   color: #969aa1; /* muted gray text */
-  padding: 2px 4px;
+  padding: 2px 0;
   border-radius: 2px;
   text-decoration: underline;
   text-underline-offset: 4px;
@@ -79,5 +83,6 @@ blockquote {
   border-left: 4px solid #ccc;
   padding-left: 1rem;
   margin: 1.5rem 0;
+  line-height: 1.3;
   color: #555;
 }
