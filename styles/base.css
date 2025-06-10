@@ -46,7 +46,14 @@ nav a {
 .container {
   max-width: 750px;
   margin: 0 auto;
-  padding: 0 1.5rem;
+  padding: 0 2rem
+}
+
+.research {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  line-height: 1.6;
 }
 
 /* Buttons */
